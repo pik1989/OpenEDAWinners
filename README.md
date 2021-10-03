@@ -1,8 +1,8 @@
 # Open EDA Contest Winners
 
-Announcement Video: https://www.youtube.com/watch?v=l5ef7TZbCXY
+## Announcement Video: https://www.youtube.com/watch?v=l5ef7TZbCXY
 
-& the winners are
+### & the winners are
 
 .
 
